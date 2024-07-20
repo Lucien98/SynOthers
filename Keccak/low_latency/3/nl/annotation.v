@@ -1,0 +1,11 @@
+(* SILVER="0_[0:3]" *)  input [3:0] aa;
+(* SILVER="1_[0:3]" *)  input [3:0] bb;
+(* SILVER="2_[0:3]" *)  input [3:0] cc;
+(* SILVER="3_[0:3]" *)  input [3:0] dd;
+(* SILVER="4_[0:3]" *)  input [3:0] ee;
+(* SILVER="refresh" *)  input [29:0] r;
+(* SILVER="0_[0:15]" *)  output [15:0] ap;
+(* SILVER="1_[0:15]" *)  output [15:0] bp;
+(* SILVER="2_[0:15]" *)  output [15:0] cp;
+(* SILVER="3_[0:15]" *)  output [15:0] dp;
+(* SILVER="4_[0:15]" *)  output [15:0] ep;
